@@ -1,0 +1,51 @@
+$date
+	Fri Oct 14 12:38:52 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module TrafficLite_tb $end
+$var wire 1 ! NSLite $end
+$var wire 1 " EWLite $end
+$var reg 1 # EWCar $end
+$var reg 1 $ NSCar $end
+$var reg 1 % clock $end
+$scope module uut $end
+$var wire 1 # EWCar $end
+$var wire 1 " EWLite $end
+$var wire 1 $ NSCar $end
+$var wire 1 ! NSLite $end
+$var wire 1 % clock $end
+$var reg 1 & state $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0&
+0%
+0$
+0#
+0"
+1!
+$end
+#30
+0!
+1"
+1&
+1#
+1%
+#60
+0%
+#90
+1$
+0#
+1%
+#120
+0%
